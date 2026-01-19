@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Arsalan</h1>
 <h3 align="center">A passionate cryptographic software engineer</h3>
-<img align = "right" width = "400" src = "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5tNTQ1YXRxZG43YjgwaXpvbTdseDBpaXM1bnB4b3A1ajk4dXh6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy-downsized.gif">
+<img align = "right" width = "200" height = "200" src = "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5tNTQ1YXRxZG43YjgwaXpvbTdseDBpaXM1bnB4b3A1ajk4dXh6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy-downsized.gif">
 - 🌱 I’m currently learning **C/C++**
 
 - 📫 How to reach me **arsalan.vahi2009@gmail.com**
